@@ -1,0 +1,31 @@
+#connectMetamask {
+    background-color: white;
+    color: black;
+    border: none;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+
+    /* Make the button square */
+    width: 50px;   /* Adjust as needed */
+    height: 50px;  /* Adjust as needed */
+    line-height: 50px; /* This helps to vertically align the text */
+
+    /* Additional styling for square corners */
+    border-radius: 0;
+}
+
+/* Style when connected */
+#connectMetamask.connected {
+    background-color: lightgreen;
+}
+
+/* Positioning the button in the top right corner of the header */
+header #connectMetamask {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
