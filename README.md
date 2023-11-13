@@ -4,6 +4,7 @@ WORDPRESS METAMASK CONNECTOR
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)]()
 [![PHP](https://img.shields.io/badge/php-darkblue.svg)](https://www.php.net/manual/de/intro-whatis.php)
+[![JavaScript](https://img.shields.io/badge/javascript-yellow.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference?retiredLocale=de)
 [![Wordpress](https://img.shields.io/badge/wordpress-white.svg)](https://wordpress.org/)
 [![Web3.js](https://img.shields.io/badge/web3.js-lightblue.svg)](https://web3js.readthedocs.io/en/v1.10.0/)
 [![METAMASK](https://img.shields.io/badge/metamask-orange.svg)](https://metamask.io/)
